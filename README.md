@@ -17,9 +17,9 @@ Train the Model to try to predict a pattern to the stock price in order to predi
 #    Conclusion:  
 
 #RUNNING THIS PROJECT:
-Install Python version 3.0 or higher
-I used Anaconda and ran via Jupyter Notebook
-   (I had issues using VSCode and could not keep the notebook stable)
-Download the Zip File and Extract All Files
-Open Jupyter Notebook File:  US StockMarket Manipulation 2021.ipynb
-You will also need pandas, numpy, os, matplotlib, and sklearn
+##Install Python version 3.0 or higher
+##I used Anaconda and ran via Jupyter Notebook
+##   (I had issues using VSCode and could not keep the notebook stable)
+##Download the Zip File and Extract All Files
+##Open Jupyter Notebook File:  US StockMarket Manipulation 2021.ipynb
+##You will also need pandas, numpy, os, matplotlib, and sklearn
