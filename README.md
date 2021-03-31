@@ -15,8 +15,8 @@ Train the Model to try to predict a pattern to the stock price in order to predi
 #    Data Visualization:
 #    A Model:  (ie comparing two means with a t-test)
 #    Conclusion:  
-
-## RUNNING THIS PROJECT:
+#
+### RUNNING THIS PROJECT:
 # Install Python version 3.0 or higher
 # I used Anaconda and ran via Jupyter Notebook
 #   (I had issues using VSCode and could not keep the notebook stable)
