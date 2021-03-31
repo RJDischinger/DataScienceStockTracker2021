@@ -1,6 +1,5 @@
 # DataScienceStockTracker2021
 codeLouisville Python part2 Data Science Stock comparisons
-I used Annaconda
 Robert Dischinger codeLouisville Python_Part_2: Spring 2021
 Stock Market Data Analysis based on Stock Data Up to 2017
 The Goal of this Project is an attempt to determine a relationship between two unique stocks that have similar ticker symbols.
